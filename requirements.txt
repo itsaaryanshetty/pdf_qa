@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-huggingface @ git+https://github.com/langchain-ai/langchain-huggingface.git
+sentence-transformers
+torch
+transformers
+faiss-cpu
+pypdf
+python-dotenv
+numpy
+pandas
+requests
