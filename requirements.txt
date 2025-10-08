@@ -2,10 +2,7 @@
 streamlit==1.46.1
 python-dotenv==1.1.1
 
-# --- PyTorch stack (stable versions) ---
-torch==2.3.0
-torchvision==0.18.0
-torchaudio==2.3.0
+
 
 # --- Transformers & embeddings ---
 transformers==4.44.2
@@ -53,4 +50,5 @@ jsonschema==4.24.0
 uvicorn==0.35.0
 watchdog==6.0.0
 watchfiles==1.1.0
+
 
