@@ -21,10 +21,10 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import nltk
 
-# nltk.download('stopwords')
-# nltk.download('punkt_tab')
-# nltk.download('punkt')
-# nltk.download('averaged_perceptron_tagger')
+nltk.download('stopwords', quiet=True)
+nltk.download('punkt_tab', quiet=True)
+nltk.download('punkt', quiet=True)
+nltk.download('averaged_perceptron_tagger', quiet=True)
 
 load_dotenv()
 
